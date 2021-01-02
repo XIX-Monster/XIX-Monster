@@ -16,8 +16,8 @@
 }
 
 .ds4 .triggers {
-    width: 588px;
-    height: 90px;
+    width: 200px;
+    height: 91px;
     position: absolute;
     left: 109px;
 }
@@ -47,7 +47,7 @@
 
 .ds4 .bumpers {
     position: absolute;
-    width: 588px;
+    width: 99px;
     height: 23px;
     left: 109px;
     top: 94px;
@@ -155,8 +155,8 @@ background-position: 0 -70px;
 
 .ds4 .button {
     position: absolute;
-    width: 55px;
-    height: 55px;
+    width: 224px;
+    height: 112px;
     background: url(faceMOD.PNG);
 }
 
@@ -189,8 +189,8 @@ background-position: 0 -70px;
 
 .ds4 .sticks {
     position: absolute;
-    width: 361px;
-    height: 105px;
+    width: 286px;
+    height: 94px;
     top: 308px;
     left: 228px;
 }
